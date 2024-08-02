@@ -1,6 +1,6 @@
 # Crypto Chart Trading Crypto (BTCUSD)
 
-Sample app for kline chart by BTCUSD
+Sample app for trading view chart by BTCUSD
  
 Love by [@dilysngo](https://www.github.com/dilysngo)
 
