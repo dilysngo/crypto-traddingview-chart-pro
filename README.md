@@ -1,4 +1,4 @@
-# Kline Chart Trading Crypto (BTCUSD)
+# Crypto Chart Trading Crypto (BTCUSD)
 
 Sample app for kline chart by BTCUSD
  
